@@ -18,6 +18,7 @@ Prepare data for future transformations and visualizations.
 Dataset Details
 
 Filename: crop_details.csv
+
 Source: Provided as part of the project
 Key Columns:
 
