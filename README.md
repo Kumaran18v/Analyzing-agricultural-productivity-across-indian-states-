@@ -70,9 +70,6 @@ Tools Used
 
 Power BI Desktop (PBIX)
 
-CSV Dataset
-
-
 Next Steps
 
 Perform data cleaning and transformation using Power Query Editor.
@@ -81,6 +78,52 @@ Add calculated columns (e.g., yield per hectare).
 
 Begin designing key visualizations: state-wise yield, crop trends, seasonal productivity.
 
+Week 2 – Initial Visualizations
 
-Author
+PBIX File: analyzing agricultural productivity week 2 task.pbix
+
+1.Report Pages and Visuals
+
+Overview Page
+
+Includes the following visuals:
+
+Pie Chart:
+
+Displays share of crop production by state 
+
+Offers a quick view of major contributors to total production
+
+
+Card Visuals:
+
+Show key KPIs:
+
+Average annual rainfall 
+
+Average fertilizer 
+
+Average production 
+
+Average pesticides 
+
+Stacked Column Chart:
+
+Compares production by state segmented by crop
+
+Helps identify which crops dominate in which states
+
+
+
+Fertilizer Page
+
+Includes visuals related to fertilizer use and its relationship with crop production or yield
+
+(Assumes a fertilizer-related dataset or field exists in your model)
+
+
+Could include bar charts, stacked column chart, and pie chart 
+
+Author:
+
   K. Kumaran
